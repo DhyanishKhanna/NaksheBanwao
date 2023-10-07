@@ -26,7 +26,7 @@
                 <div class="col-lg-3 col-md-6 footer-contact">
                     <h4>Reach Us</h4>
                     <p><strong>Address:</strong> Head Office, Faridabad, Haryana<br></p>
-                    <p><strong>Email:</strong> naksheBanwao@gmail.com<br></p>
+                    <p><strong>Email:</strong> nakshebanwao@gmail.com<br></p>
                     <p><strong>Phone:</strong> +91 97167 54525<br></p>
                 </div>
 
@@ -40,13 +40,11 @@
                     <div class="social-links mt-3">
                         <a href="https://wa.me/919716754525" target="_blank" class="linkedin bg-success"><i
                                 class="bx bxl-whatsapp"></i></a>
-                        <a href="#" class="facebook bg-primary"><i class="bx bxl-facebook"></i></a>
-                        <a href="https://www.instagram.com/nakshebanwao" target="_blank" class="instagram"><i
+                        <a href="https://www.instagram.com/nakshebanwao" target="_blank" class="instagram bg-primary"><i
                                 class="bx bxl-instagram"></i></a>
                         <a href="https://www.youtube.com/@nakshebanwaoonline" target="_blank"
                             class="google-plus bg-danger"><i class="bx bxl-youtube"></i></a>
-                        <a href="#" class="twitter bg-info"><i class="bx bxl-twitter"></i></a>
-                        <a href="https://in.pinterest.com/nakshebanwao" target="_blank" class="twitter bg-danger"><i
+                        <a href="https://in.pinterest.com/nakshebanwao" target="_blank" class="twitter bg-info"><i
                                 class="bx bxl-pinterest"></i></a>
                     </div>
                 </div>
